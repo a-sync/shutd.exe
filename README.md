@@ -1,4 +1,6 @@
 # shutd.exe
+<img src="https://user-images.githubusercontent.com/14183614/44171138-bf24af80-a0d9-11e8-94c7-1ba99514e99f.gif" width="100%">  
+
 **Simple shutdown timer gui for windows.**
 
 Opening the app aborts any previous shutdown process.  
